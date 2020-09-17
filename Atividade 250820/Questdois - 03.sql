@@ -1,0 +1,10 @@
+insert into tb_prod (produto,departamento, tam_idade, valor) values ("short", "infantil",7 , 600);
+insert into tb_prod(produto,departamento, tam_idade, valor) values ("saia", "infantil", 2, 631);
+insert into tb_prod (produto,departamento, tam_idade, valor) values ("camisa", "infantil", 2, 430);
+insert into tb_prod (produto,departamento, tam_idade, valor) values ("cueca", "infantil", 1, 770.99);
+insert into tb_prod (produto,departamento, tam_idade, valor) values ("meia", "infantil", 12, 500.01);
+insert into tb_prod (produto,departamento, tam_idade, valor) values ("xuxa", "infantil", 10, 30.99);
+insert into tb_prod (produto,departamento, tam_idade, valor) values ("saia", "infantil", 8, 310.99);
+insert into tb_prod (produto,departamento, tam_idade, valor) values ("Short", "infantil", 3, 120.99);
+insert into tb_prod (produto,departamento, tam_idade, valor) values ("meia", "infantil", 1, 100.99);
+insert into tb_prod (produto,departamento, tam_idade, valor) values ("meia", "infantil", 16, 30.99);
